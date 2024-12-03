@@ -2,3 +2,4 @@ nltk
 streamlit
 scikit-learn
 matplotlib
+python-dotenv
